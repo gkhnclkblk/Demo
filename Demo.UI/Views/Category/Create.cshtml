@@ -1,0 +1,17 @@
+﻿@using Demo.DTO.DTOs.CategoryDtos
+
+@model CategoryAddDto
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Create" asp-controller="Category" method="post">
+    <div class="mb-3">
+        <label for="name" class="form-label">Kategori Adı</label>
+        <input type="text" class="form-control" id="name" asp-for="@Model.Name">
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
+

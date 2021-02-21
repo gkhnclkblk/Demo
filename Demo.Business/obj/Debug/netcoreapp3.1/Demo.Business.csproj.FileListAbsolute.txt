@@ -1,0 +1,14 @@
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.Business.deps.json
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.Business.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.Business.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.DataAccess.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.Entities.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.DataAccess.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\bin\Debug\netcoreapp3.1\Demo.Entities.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.csprojAssemblyReference.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.AssemblyInfoInputs.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.AssemblyInfo.cs
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.csproj.CoreCompileInputs.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.csproj.CopyComplete
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.Business\obj\Debug\netcoreapp3.1\Demo.Business.pdb

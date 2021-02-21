@@ -1,0 +1,15 @@
+﻿@using Demo.DTO.DTOs.CategoryDtos
+@model CategoryUpdateDto
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Update" asp-controller="Category" method="post">
+    <input type="hidden" asp-for="@Model.Id" />
+    <div class="mb-3">
+        <label for="name" class="form-label">Kategori Adı</label>
+        <input type="text" class="form-control" id="name" asp-for="@Model.Name">
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

@@ -1,0 +1,15 @@
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.Entities.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.csprojAssemblyReference.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.AssemblyInfoInputs.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.AssemblyInfo.cs
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.DataAccess.deps.json
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.DataAccess.runtimeconfig.json
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.DataAccess.runtimeconfig.dev.json
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.DataAccess.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.DataAccess.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\bin\Debug\netcoreapp3.1\Demo.Entities.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.csproj.CopyComplete
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.dll
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.pdb
+C:\Users\gkhnclkblk\source\repos\Demo\Demo.DataAccess\obj\Debug\netcoreapp3.1\Demo.DataAccess.genruntimeconfig.cache

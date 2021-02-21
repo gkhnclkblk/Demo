@@ -1,0 +1,25 @@
+﻿@using Demo.DTO.DTOs.ProductDtos
+@model ProductUpdateDto
+
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form asp-action="Update" asp-controller="Product" method="post">
+    <div class="mb-3">
+        <select class="form-select" asp-for="@Model.CategoryId" aria-label="Kategori Seç">
+            @foreach (var category in Model.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+
+        </select>
+
+    </div>
+    <div class="mb-3">
+        <label for="name" class="form-label">Ürün Adı</label>
+        <input type="text" class="form-control" id="name" asp-for="@Model.Name" value="@Model.Name">
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
